@@ -43,7 +43,7 @@ The key data points used for analysis include:
 - Count plots: Showing the distribution of products across regions and unit prices.
 - Relplot (scatter plot matrix): Showing the relationship between regions, unit prices, and products.
 
-### Recommendation
+### Recommendations
 
 1. Targeted Regional Marketing:
 The analysis reveals varying product demand across regions.  For instance, "Jackets" might be a primary need in the North, but less so elsewhere.  Implement targeted marketing campaigns in each region, highlighting products relevant to local needs and climate.  This includes promotions, advertising, and localized product displays.
