@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Key Objectives](#Key-Objectives)
 - [Tools](#tools)
-- [EDA](#EDA)
+- [EDA (Exploratory Data Analysis)](#EDA (Exploratory-Data-Analysis))
 - [Recommendations](#recommendations)
 
 
@@ -47,7 +47,7 @@ The key data points used for analysis include:
 - The analysis involves several queries performed against the 'Lita' table in the SQLite database,
   along with some data manipulation and visualization using pandas, matplotlib, seaborn and plotly.
 
-###  EDA
+###  EDA (Exploratory Data Analysis)
  is performed on the dataset using visualization techniques to gain insights about sales trends.  These visualizations include:
 - Bar plots: Showing sales by region, and quantity by region
 - Pie charts: Showing regional breakdown of sales and product breakdown
