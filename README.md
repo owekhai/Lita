@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Key Objectives](#Key-Objectives)
 - [Tools](#tools)
-- [EDA](#EDA)
+- [EDA (Exploratory Data Analysis)](#EDA (Exploratory-Data-Analysis))
 - [Recommendations](#recommendations)
 
 
