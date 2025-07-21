@@ -1,5 +1,16 @@
 # Topic: Lita Analysis
 
+## Table of Contents
+
+- [Project Overview](#-Project-Overview)
+- [Data Understanding](#Data-Understanding)
+- [Data Sources](#data-sources)
+- [Key Objectives](#Key-Objectives)
+- [Tools](#tools)
+- [EDA](#EDA)
+- [Recommendations](#recommendations)
+
+
 ### Project Overview: Sales Analysis and Visualization for Lita
 
 - This project analyzes sales data from the Lita dataset to identify key business insights. 
