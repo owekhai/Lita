@@ -57,7 +57,7 @@ The key data points used for analysis include:
 ### Recommendations
 
 1. Targeted Regional Marketing:
-The analysis reveals varying product demand across regions.  For instance, "Jackets" might be a primary need in the North, but less elsewhere, same go to others,  Implement targeted marketing campaigns in each region, highlighting products relevant to local needs and climate.  This includes promotions, advertising, and localized product displays.
+The analysis reveals varying product demand across regions.  For instance, "Jackets" might be a primary need in the North, but less so elsewhere,  Implement targeted marketing campaigns in each region, highlighting products relevant to local needs and climate.  This includes promotions, advertising, and localized product displays.
 
 2. Promotional Pricing Strategies:
 Introduce tiered pricing or promotions for products less popular in certain regions.  "Second-class" products (perhaps variations or older models) could be offered at discounted prices to expand market share in regions where they aren't primary needs. This incentivizes trial and adoption, increasing sales and visibility in the long run.  Simultaneously offer these discounted options in primary regions to target price-sensitive customers.
